@@ -1,4 +1,4 @@
-# Teli-Tracker
+# Teli-Tracker v0.1.0
 A lightweight tool for capturing vendor interactions so sourcing decisions compound instead of resetting
 ___
 
